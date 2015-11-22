@@ -1,4 +1,4 @@
-# UML_diagrams_of_EZOP
+# UML diagrams of EZOP
 This repo contains some UML diagrams for [EZOP project](http://ezop-project.ru). You can find more about this project [here](http://ontoserver.rsuh.ru).
 
 Diagrams:
