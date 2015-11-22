@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XMI verified="false" xmi.version="1.2" timestamp="2015-11-22T14:44:45" xmlns:UML="http://schema.omg.org/spec/UML/1.3">
+<XMI verified="false" xmi.version="1.2" timestamp="2015-11-22T15:29:45" xmlns:UML="http://schema.omg.org/spec/UML/1.3">
  <XMI.header>
   <XMI.documentation>
    <XMI.exporter>umbrello uml modeller http://umbrello.kde.org</XMI.exporter>
@@ -451,10 +451,12 @@
       </UML:Interface>
       <UML:Abstraction visibility="public" isSpecification="false" namespace="Logical View" supplier="cSqAW4mepJcx" xmi.id="qunDH9YuBViV" client="f6tZESpu7ODN" name=""/>
       <UML:Abstraction visibility="public" isSpecification="false" namespace="Logical View" supplier="OhaYPdjz5Z9a" xmi.id="HanQ4Vw9nBPO" client="ifYKIO5nol89" name=""/>
+      <UML:Class visibility="public" isSpecification="false" namespace="Logical View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="gCA152aKp0HE" name=".exe-файл"/>
+      <UML:Class visibility="public" isSpecification="false" namespace="Logical View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="9o1uM2K2CU3I" name="сервер"/>
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams>
-       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="1" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма_классов_сервер" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="1196,071411132812" canvaswidth="989,2857055664062" localid="-1" snapcsgrid="0" showgrid="1" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="56" xmi.id="z4fbnvxXSMhJ" documentation="" showscope="1" snapgrid="1" showatts="1" type="1">
+       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="0" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма_классов_сервер" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="1196,071411132812" canvaswidth="989,2857055664062" localid="-1" snapcsgrid="0" showgrid="1" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="56" xmi.id="z4fbnvxXSMhJ" documentation="" showscope="1" snapgrid="1" showatts="1" type="1">
         <widgets>
          <classwidget linecolor="#000000" usesdiagramfillcolor="0" linewidth="0" showoperations="1" textcolor="#000000" usesdiagramusefillcolor="0" showpubliconly="1" showpackage="1" x="-2300" showattsigs="601" showstereotype="1" y="-1200" showattributes="1" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="55AfaqzS5CXV" width="394" isinstance="0" usefillcolor="1" fillcolor="#b9eeff" xmi.id="xKlDkaOOUSUE" showscope="1" height="187" showopsigs="601"/>
          <classwidget linecolor="#000000" usesdiagramfillcolor="0" linewidth="0" showoperations="1" textcolor="#000000" usesdiagramusefillcolor="0" showpubliconly="1" showpackage="1" x="-2325" showattsigs="601" showstereotype="1" y="-300" showattributes="1" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="zWeTy9h1Cqgk" width="421" isinstance="0" usefillcolor="1" fillcolor="#b9eeff" xmi.id="Nqat1GgwaRAI" showscope="1" height="153" showopsigs="601"/>
@@ -546,7 +548,7 @@
          </assocwidget>
         </associations>
        </diagram>
-       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="1" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма классов_интерфейс" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="778,1065063476562" canvaswidth="784,4461669921875" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="104" xmi.id="fBpfOTfDW9gE" documentation="" showscope="1" snapgrid="1" showatts="1" type="1">
+       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="0" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма классов_интерфейс" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="778,1065063476562" canvaswidth="784,4461669921875" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="104" xmi.id="fBpfOTfDW9gE" documentation="" showscope="1" snapgrid="1" showatts="1" type="1">
         <widgets>
          <floatingtext linecolor="none" usesdiagramfillcolor="0" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="0" x="-1950" showstereotype="1" y="-1000" text="  Интерфейс   " font="Oxygen-Sans,13,-1,5,50,0,0,0,0,0" localid="UstmutmTvlg3" pretext="" role="700" width="130" isinstance="0" posttext="" usefillcolor="1" fillcolor="#ffff00" xmi.id="PFlV3EU5prjR" height="27"/>
          <interfacewidget linecolor="#000000" usesdiagramfillcolor="0" linewidth="0" showoperations="1" textcolor="#000000" usesdiagramusefillcolor="0" showpubliconly="0" showpackage="1" x="-1575" showattsigs="601" showstereotype="1" y="-550" showattributes="0" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" drawascircle="0" localid="PbiDcvs6ljqf" width="311" isinstance="0" usefillcolor="1" fillcolor="#d4ffe1" xmi.id="z4eaHp57wXEU" showscope="1" height="59" showopsigs="601"/>
@@ -625,6 +627,46 @@
           </linepath>
          </assocwidget>
         </associations>
+       </diagram>
+       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="1" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма последовательности_работа_с_черновиками" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="1086" canvaswidth="1728,418604651163" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" autoincrementsequence="1" usefillcolor="1" fillcolor="#d4ffe1" zoom="73" xmi.id="pXlCh8BkLvsb" documentation="" showscope="1" snapgrid="0" showatts="1" type="3">
+        <widgets>
+         <objectwidget linecolor="none" usesdiagramfillcolor="1" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="1" x="-1253" decon="0" showstereotype="1" y="80" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="EpQzP6OOQ2AT" width="273" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="none" xmi.id="spRp5JM3QuBr" height="62" drawasactor="1"/>
+         <objectwidget linecolor="none" usesdiagramfillcolor="1" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="1" x="-211,7743557511" decon="0" showstereotype="1" y="408,2837837837838" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="7gaXgj0K7t0A" width="88" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="none" xmi.id="gCA152aKp0HE" height="27" drawasactor="0"/>
+         <objectwidget linecolor="none" usesdiagramfillcolor="1" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="1" x="-926,7441860465117" decon="0" showstereotype="1" y="80" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="shTjGqPROorS" width="117" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="none" xmi.id="7nX07GAzwAiY" height="27" drawasactor="0"/>
+         <objectwidget linecolor="none" usesdiagramfillcolor="1" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="1" x="-329,0697674418604" decon="0" showstereotype="1" y="80" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="qoo4Pm3vbQJq" width="87,76744186046511" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="none" xmi.id="9o1uM2K2CU3I" height="27" drawasactor="0"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="0" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="0" x="-661,6279069767442" showstereotype="1" y="140,6976744186047" text="онтология_создана" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="JvwpQgVQIlle" pretext="" role="700" width="145" isinstance="0" posttext="" usefillcolor="1" fillcolor="#d4ffe1" xmi.id="a7MCN2sXKHrB" height="21"/>
+         <objectwidget linecolor="none" usesdiagramfillcolor="1" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="1" x="-650,4085480829668" decon="0" showstereotype="1" y="234,8513513513514" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="YowRNtkxgXqi" width="216" isinstance="0" multipleinstance="0" usefillcolor="1" fillcolor="none" xmi.id="GZ5K1m7POEc8" height="27" drawasactor="0"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="0" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="0" x="-469,5788812067882" showstereotype="1" y="420,2080452545562" text="файл_создан" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="4njZ9RP858Bd" pretext="" role="700" width="100" isinstance="0" posttext="" usefillcolor="1" fillcolor="#d4ffe1" xmi.id="5maMOOAF6HvO" height="21"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="0" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="0" x="-472,4714016341923" showstereotype="1" y="537,3494657448159" text="файл_обработан" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="9OIlQ5O0GLk3" pretext="" role="700" width="126" isinstance="0" posttext="" usefillcolor="1" fillcolor="#d4ffe1" xmi.id="nLhfbKPdPpjZ" height="21"/>
+         <floatingtext linecolor="none" usesdiagramfillcolor="0" linewidth="0" textcolor="#000000" usesdiagramusefillcolor="0" x="-921,6216216216216" showstereotype="1" y="568,9189189189188" text="сообщения_об_обработке" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="YndFVhgf9Xaw" pretext="" role="700" width="189" isinstance="0" posttext="" usefillcolor="1" fillcolor="#d4ffe1" xmi.id="xEE1PZj0Mq0f" height="21"/>
+        </widgets>
+        <messages>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="shTjGqPROorS" textid="XFtAhnfb9CFz" operation="WhmhqCJkjszS" linewidth="none" seqnum="1" textcolor="none" usesdiagramusefillcolor="1" x="-1116" showstereotype="1" y="190" widgetaid="EpQzP6OOQ2AT" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="WaFay9eVdSuW" width="256" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="WhmhqCJkjszS" height="80" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-1077" showstereotype="1" y="169" text="создать_онтологию()" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="Nm1jZqB5ROdP" pretext="" role="704" width="170" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="XFtAhnfb9CFz" height="21"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="qoo4Pm3vbQJq" textid="AIRKtR5GpyyE" operation="создать_онтологию()" linewidth="none" seqnum="2" textcolor="none" usesdiagramusefillcolor="1" x="-868" showstereotype="1" y="128" widgetaid="shTjGqPROorS" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="Lmt04uenCb1n" width="591" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="OOsiRLziYVlg" height="36" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-690" showstereotype="1" y="107" text="создать_онтологию()" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="2cIKOrOhbIgg" pretext="" role="704" width="170" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="AIRKtR5GpyyE" height="21"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="YowRNtkxgXqi" textid="kp5UXBrpzD3W" operation="обновление_интерфейса" linewidth="none" seqnum="3" textcolor="none" usesdiagramusefillcolor="1" x="-867" showstereotype="1" y="248,3513513513514" widgetaid="shTjGqPROorS" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="BrTkKkA6kk8O" width="216" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="HnMGXuR5iLX4" height="8" sequencemessagetype="1002">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-862" showstereotype="1" y="227" text="обновление_интерфейса" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="EF1smpavh2fz" pretext="" role="704" width="198" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="kp5UXBrpzD3W" height="21"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="YowRNtkxgXqi" textid="WWxOa5NmlCJ6" operation="внести_изменения_в_черновик" linewidth="none" seqnum="4" textcolor="none" usesdiagramusefillcolor="1" x="-1115" showstereotype="1" y="328,8749214330607" widgetaid="EpQzP6OOQ2AT" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="2KjgF3kDu4A1" width="572" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="EipZKVgiMExN" height="20" sequencemessagetype="1001">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-969" showstereotype="1" y="307" text="внести_изменения_в_черновик" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="NN7I2Dl5VSlk" pretext="" role="704" width="241" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="WWxOa5NmlCJ6" height="21"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="YowRNtkxgXqi" textid="IWsPylWbNjlR" operation="l4K20OJECBXB" linewidth="none" seqnum="5" textcolor="none" usesdiagramusefillcolor="1" x="-1116" showstereotype="1" y="367,7693274670017" widgetaid="EpQzP6OOQ2AT" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="h0o1EkMa7Rs9" width="582" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="l4K20OJECBXB" height="227" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-956" showstereotype="1" y="346" text="построить_онтологию()" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="wJmhT6l84YAI" pretext="" role="704" width="187" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="IWsPylWbNjlR" height="21"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="YowRNtkxgXqi" operation="" linewidth="none" seqnum="" textcolor="none" usesdiagramusefillcolor="1" x="-433" showstereotype="1" y="248,3513513513514" widgetaid="qoo4Pm3vbQJq" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="9o9ZU8bvkxqX" width="147" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="aSyKWX8UVCCy" height="8" sequencemessagetype="1002"/>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="qoo4Pm3vbQJq" textid="qi7iKhial0EO" operation="создать_исполняемый_файл" linewidth="none" seqnum="6" textcolor="none" usesdiagramusefillcolor="1" x="-542" showstereotype="1" y="387,0276555625384" widgetaid="YowRNtkxgXqi" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="QM2tYCsJuec2" width="265" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="G4Hge6YLWMkq" height="67" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-533" showstereotype="1" y="366" text="создать_исполняемый_файл" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="0gl5YxdwJeqp" pretext="" role="704" width="224" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="qi7iKhial0EO" height="21"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="qoo4Pm3vbQJq" textid="PIPM5aQHBaYs" operation="обработка_файла" linewidth="none" seqnum="7" textcolor="none" usesdiagramusefillcolor="1" x="-542" showstereotype="1" y="500,0006285355134" widgetaid="YowRNtkxgXqi" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="ycxiaB6eynD6" width="265" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="EaCHjLum5S9U" height="65" sequencemessagetype="1000">
+          <floatingtext linecolor="none" usesdiagramfillcolor="1" linewidth="none" textcolor="none" usesdiagramusefillcolor="1" x="-456" showstereotype="1" y="479" text="обработка_файла" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="qJhuYaHWCECm" pretext="" role="704" width="147" isinstance="0" posttext="" usefillcolor="1" fillcolor="none" xmi.id="PIPM5aQHBaYs" height="21"/>
+         </messagewidget>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="7gaXgj0K7t0A" operation="" linewidth="none" seqnum="" textcolor="none" usesdiagramusefillcolor="1" x="-284" showstereotype="1" y="421,7837837837838" widgetaid="qoo4Pm3vbQJq" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="vReyrnSg47ac" width="72" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="ir7s3JdTc2nf" height="20" sequencemessagetype="1002"/>
+         <messagewidget linecolor="none" usesdiagramfillcolor="1" widgetbid="EpQzP6OOQ2AT" operation="" linewidth="none" seqnum="" textcolor="none" usesdiagramusefillcolor="1" x="-1115" showstereotype="1" y="293" widgetaid="EpQzP6OOQ2AT" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" localid="zCiTNRotEP8h" width="48" isinstance="0" usefillcolor="1" fillcolor="none" xmi.id="7oMEKx9H9NGW" height="20" sequencemessagetype="1001"/>
+        </messages>
+        <associations/>
        </diagram>
       </diagrams>
      </XMI.extension>
@@ -1527,7 +1569,7 @@
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams>
-       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="1" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма прецедентов_общая" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="1225,81379699707" canvaswidth="1779,9384765625" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="40" xmi.id="0qWBJePGjjyw" documentation="" showscope="1" snapgrid="0" showatts="1" type="2">
+       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="0" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма прецедентов_общая" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="1225,81379699707" canvaswidth="1779,9384765625" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="40" xmi.id="0qWBJePGjjyw" documentation="" showscope="1" snapgrid="0" showatts="1" type="2">
         <widgets>
          <actorwidget width="169" showstereotype="1" x="-3102,682861328125" usesdiagramusefillcolor="0" y="-817,1341552734375" usesdiagramfillcolor="0" isinstance="0" localid="QXjvdlE087dN" fillcolor="#d4ffe1" height="307" linecolor="#001400" xmi.id="xQZILLqtEfRD" textcolor="#000000" usefillcolor="1" linewidth="0" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0"/>
          <usecasewidget width="180" showstereotype="1" x="-3079,405517578125" usesdiagramusefillcolor="0" y="-300,3160400390625" usesdiagramfillcolor="0" isinstance="0" localid="SPGhScvjgHLP" fillcolor="#d4ffe1" height="55" linecolor="#001400" xmi.id="G12AqCHC1nXy" textcolor="#000000" usefillcolor="1" linewidth="0" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0"/>
@@ -1623,7 +1665,7 @@
          </assocwidget>
         </associations>
        </diagram>
-       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="1" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма прецедентов_редактирование" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="1279,156860351562" canvaswidth="2690,797775268555" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="46" xmi.id="o7r0lNdPSrlw" documentation="" showscope="1" snapgrid="1" showatts="1" type="2">
+       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="0" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма прецедентов_редактирование" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="1279,156860351562" canvaswidth="2690,797775268555" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="46" xmi.id="o7r0lNdPSrlw" documentation="" showscope="1" snapgrid="1" showatts="1" type="2">
         <widgets>
          <usecasewidget width="128" showstereotype="1" x="-2400" usesdiagramusefillcolor="0" y="250" usesdiagramfillcolor="0" isinstance="0" localid="OUuhogxQGSe5" fillcolor="#d4ffe1" height="55" linecolor="#001400" xmi.id="QtULomWWOyp1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0"/>
          <usecasewidget width="151" showstereotype="1" x="-2150" usesdiagramusefillcolor="0" y="-225" usesdiagramfillcolor="0" isinstance="0" localid="DQGrp93EdxvR" fillcolor="#d4ffe1" height="55" linecolor="#001400" xmi.id="I8QVZWAxOcGA" textcolor="#000000" usefillcolor="1" linewidth="0" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0"/>
@@ -1909,7 +1951,7 @@
          </assocwidget>
         </associations>
        </diagram>
-       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="1" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма прецедентов_просмотр" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="2717,045701814734" canvaswidth="4157,914136803668" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="46" xmi.id="QQwaIHKzpe2g" documentation="" showscope="1" snapgrid="0" showatts="1" type="2">
+       <diagram showopsig="1" linecolor="#000000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="0" showpackage="1" showpubliconly="1" showstereotype="1" name="Диаграмма прецедентов_просмотр" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0" canvasheight="2717,045701814734" canvaswidth="4157,914136803668" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#d4ffe1" zoom="46" xmi.id="QQwaIHKzpe2g" documentation="" showscope="1" snapgrid="0" showatts="1" type="2">
         <widgets>
          <usecasewidget width="211" showstereotype="1" x="-2951,777184527853" usesdiagramusefillcolor="0" y="-852,6128248131794" usesdiagramfillcolor="0" isinstance="0" localid="iM99wJcdpThB" fillcolor="#d4ffe1" height="55" linecolor="#001400" xmi.id="drVDJ54qwDlG" textcolor="#000000" usefillcolor="1" linewidth="0" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0"/>
          <actorwidget width="127" showstereotype="1" x="-2772,85280974015" usesdiagramusefillcolor="0" y="220,5167366525402" usesdiagramfillcolor="0" isinstance="0" localid="ZU4CYb4FxDOr" fillcolor="#d4ffe1" height="218,5217391304348" linecolor="#001400" xmi.id="f7jWZmEriazI" textcolor="#000000" usefillcolor="1" linewidth="0" font="Oxygen-Sans,10,-1,5,50,0,0,0,0,0"/>
@@ -2335,12 +2377,13 @@
   </UML:Model>
  </XMI.content>
  <XMI.extensions xmi.extender="umbrello">
-  <docsettings viewid="z4fbnvxXSMhJ" uniqueid="zKgm2bFS7fL7" documentation=""/>
+  <docsettings viewid="pXlCh8BkLvsb" uniqueid="10uDN2uSpHf9" documentation=""/>
   <listview>
    <listitem open="1" type="800" id="Views">
     <listitem open="1" type="821" id="Component View"/>
     <listitem open="1" type="801" id="Logical View">
-     <listitem open="0" type="817" id="7nX07GAzwAiY">
+     <listitem open="1" type="813" id="gCA152aKp0HE"/>
+     <listitem open="1" type="817" id="7nX07GAzwAiY">
       <listitem open="0" type="815" id="TIOqQo8yLCYq"/>
       <listitem open="0" type="815" id="uFD5SBL6YAgp"/>
       <listitem open="0" type="815" id="orpINrmjiMij"/>
@@ -2352,7 +2395,7 @@
       <listitem open="0" type="815" id="WhmhqCJkjszS"/>
       <listitem open="0" type="815" id="GFjH3Szj3fyB"/>
      </listitem>
-     <listitem open="1" type="813" id="xKlDkaOOUSUE">
+     <listitem open="0" type="813" id="xKlDkaOOUSUE">
       <listitem open="0" type="815" id="T3icHZa3OVnN"/>
       <listitem open="0" type="815" id="QeydYjWiia5S"/>
       <listitem open="0" type="815" id="YUfb7RLfo9be"/>
@@ -2365,6 +2408,7 @@
       <listitem open="0" type="814" id="0ZDVXqMKCvnt"/>
      </listitem>
      <listitem open="0" type="807" id="fBpfOTfDW9gE" label="Диаграмма классов_интерфейс"/>
+     <listitem open="0" type="810" id="pXlCh8BkLvsb" label="Диаграмма последовательности_работа_с_черновиками"/>
      <listitem open="0" type="807" id="z4fbnvxXSMhJ" label="Диаграмма_классов_сервер"/>
      <listitem open="0" type="813" id="spRp5JM3QuBr">
       <listitem open="0" type="815" id="P6arGVkKVzTy"/>
@@ -2379,7 +2423,7 @@
      <listitem open="0" type="817" id="rf2leq1uSxZw">
       <listitem open="0" type="815" id="4wbMFKVYbSf5"/>
      </listitem>
-     <listitem open="0" type="817" id="OhaYPdjz5Z9a">
+     <listitem open="1" type="817" id="OhaYPdjz5Z9a">
       <listitem open="0" type="815" id="1K0dlfgu7xWs"/>
      </listitem>
      <listitem open="0" type="817" id="cSqAW4mepJcx">
@@ -2408,7 +2452,7 @@
       <listitem open="0" type="814" id="DDYqqfl2IIoN"/>
      </listitem>
      <listitem open="1" type="817" id="ifYKIO5nol89"/>
-     <listitem open="0" type="817" id="p9S9Yo7wTiVs">
+     <listitem open="1" type="817" id="p9S9Yo7wTiVs">
       <listitem open="0" type="815" id="DfeKyw5sN8QK"/>
       <listitem open="0" type="815" id="vS5YxQAo4zpt"/>
       <listitem open="0" type="815" id="mFU6A12s9LIk"/>
@@ -2451,6 +2495,7 @@
      </listitem>
      <listitem open="1" type="817" id="YbSI0O3Gx8Zy"/>
      <listitem open="1" type="817" id="zEefQNte0ALl"/>
+     <listitem open="1" type="813" id="9o1uM2K2CU3I"/>
      <listitem open="0" type="813" id="4nXYpjAjATs1">
       <listitem open="0" type="815" id="EMSNGaIw7YyL"/>
       <listitem open="0" type="815" id="8WhqoeW30xOF"/>
